@@ -11,3 +11,4 @@ config.h
 config.log
 config.status
 Makefile
+node_modules
