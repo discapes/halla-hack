@@ -1,3 +1,11 @@
+# halla-hack
+
+This is a fork of [nneonneo/2048-ai](https://github.com/nneonneo/2048-ai).
+I added code to serialize it in the format used by [oispahalla.com](https://oispahalla.com/),
+to generate high score games (for friendly purposes :)
+
+## Original README:
+
 AI for the [2048 game](http://gabrielecirulli.github.io/2048/). This uses *expectimax optimization*, along with a highly-efficient bitboard representation to search upwards of 10 million moves per second on recent hardware. Heuristics used include bonuses for empty squares and bonuses for placing large values near edges and corners. Read more about the algorithm on the [StackOverflow answer](https://stackoverflow.com/a/22498940/1204143).
 
 ## Building
